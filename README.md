@@ -1,6 +1,6 @@
-## Customer_personality_analysis_project
+# Customer_personality_analysis_project
 
-# workflow of the project
+## workflow of the project
 1. update config.yaml
 2. update params.yaml
 3. update entity
