@@ -1,0 +1,7 @@
+artifacts_dir: artifacts
+
+data_ingestion_config:
+  root_dir: data_ingestion
+  dataset_download_url: https://github.com/sumit-1492/datasets/raw/main/marketing_campaign.zip
+  zip_data_dir: raw_data
+  unzip_data_dir: ingested_data
